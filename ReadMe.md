@@ -1,1 +1,1 @@
-https://github.com/gabrielestefono/M.-CRUD-com-Node.JS-Express-TypeORM-e-PostgreSQL
+https://youtu.be/9AO2hZJsHrs?si=q25LHpkw1Alm4FOE&t=1610
